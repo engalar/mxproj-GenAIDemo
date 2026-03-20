@@ -1,0 +1,44 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Mendix binary files
+*.mpr binary
+*.mpk binary
+*.mxunit binary
+
+# Java
+*.java text eol=lf
+*.jar binary
+
+# Web / Frontend
+*.js text eol=lf
+*.mjs text eol=lf
+*.ts text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+*.map text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# Fonts (binary)
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.eot binary
+
+# Images (binary)
+*.png binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+
+# Config
+*.xml text eol=lf
+*.webmanifest text eol=lf
