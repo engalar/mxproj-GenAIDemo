@@ -16,3 +16,10 @@
 *.mpr.bak
 /vendorlib/temp/
 .DS_Store
+mxcli
+mxcli.exe
+.ai-context/
+.claude/
+.devcontainer/
+AGENTS.md
+CLAUDE.md
