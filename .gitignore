@@ -18,6 +18,7 @@
 .DS_Store
 mxcli
 mxcli.exe
+.mxcli/
 .ai-context/
 .claude/
 .devcontainer/
